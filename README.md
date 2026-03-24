@@ -6,9 +6,11 @@ A minimalist, blue-toned KDE Plasma setup inspired by **Ryo Yamada**. This confi
 
 ## 📸 Screenshots
 
-<img src="https://i.imgur.com/6IT2CQE.png" alt="Descrizione" width="500" height="300">
-<img src="https://imgur.com/B9mEnfh" alt="Descrizione" width="500" height="300">
-<img src="ttps://imgur.com/aJFiQXc" alt="Descrizione" width="500" height="300">
+<img src="https://i.imgur.com/6IT2CQE.png" width="500" height="300">
+
+<img src="https://imgur.com/B9mEnfh" width="500" height="300">
+
+<img src="ttps://imgur.com/aJFiQXc" width="500" height="300">
 
 ---
 ## 📁 Filesystem Structure
