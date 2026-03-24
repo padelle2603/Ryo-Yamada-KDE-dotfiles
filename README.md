@@ -66,32 +66,30 @@ sudo zypper install fastfetch fish fontconfig kvantum micro xsettingsd qt6ct
 ```
 
 ---
-## Plasmoids
-Ecco una sezione in markdown per descrivere ogni plasmoid presente nella tua directory:
+[## Plasmoids
+List of plasmoids installed in `~/.local/share/plasma/plasmoids/`:
 
-Elenco dei plasmoid presenti in `~/.local/share/plasma/plasmoids/`:
-
-| Plasmoid | Descrizione |
-|----------|-------------|
-| **AndromedaLauncher** | Un launcher alternativo per il menu di avvio |
-| **com.github.exequtic.apdatifier** | Visualizza e gestisce gli aggiornamenti di sistema |
-| **com.himdek.kde.plasma.overview** | Fornisce una vista d'insieme delle finestre e delle attività |
-| **com.himdek.kde.plasma.runcommand** | Esegue comandi rapidi direttamente dal pannello |
-| **com.pras.syspeek** | Monitora le risorse di sistema (CPU, RAM, rete) |
-| **DateOnly** | Mostra solo la data senza l'ora |
-| **FreshDoctor.FairyWren-App-Menu** | Menu applicazioni stile macOS |
-| **luisbocanegra.audio.visualizer** | Visualizzatore audio animato |
-| **luisbocanegra.panel.colorizer** | Personalizza i colori del pannello |
-| **Orbit.Start.Menu** | Menu di avvio con design circolare |
-| **org.dhruv8sh.kara** | Widget per la gestione di contenuti multimediali |
-| **org.forgedRice.plasma.mediacontroller.improved** | Controller multimediale avanzato |
-| **org.kde.plasma.catwalkr** | Gestore di finestre a schede |
-| **org.kde.plasma.compact-shutdown** | Widget compatto per spegnimento/riavvio |
-| **org.kde.plasma.ipaddress** | Mostra l'indirizzo IP locale e pubblico |
-| **org.kde.plasma.shutdownorswitch** | Pulsante per spegnimento con opzioni aggiuntive |
-| **org.kde.plasma.simplekickoff** | Versione semplificata del menu Kickoff |
-| **Plasma.Flex.Hub** | Hub flessibile per widget e scorciatoie |
-| **zayron.simple.separator** | Separatore minimalista per il pannello |
+| Plasmoid (KDE Store Name) | Description |
+|---------------------------|-------------|
+| **Andromeda Launcher** | A simple, stylish application launcher for the KDE Plasma panel |
+| **Apdatifier** | A system tray widget to check for and manage system updates|
+| **Toggle Overview Widget for Plasma 6** | Adds a button to the panel or desktop to open the KDE Plasma Overview, which includes a powerful KRunner search box. |
+| **Run Command** | A widget that adds a button to your panel or desktop to execute a custom terminal command with a single click. |
+| **SysPeek** | A minimalist system monitor plasmoid that displays CPU, RAM, Swap, and network usage in a clean horizontal bar on the panel|
+| **DateOnly** | A simple panel plasmoid that displays only the current date, without the time|
+| **FairyWren App Menu** | A full-screen application menu for KDE Plasma, inspired by the macOS Launchpad. |
+| **Audio Visualizer** | An animated plasmoid that visualizes audio playback in real-time on the panel. |
+| **Panel Colorizer** | A tool to extensively customize the appearance and colors of your KDE Plasma panel|
+| **Orbit Menu** | A circular, animated application launcher with a unique design for the panel |
+| **Kara** | A widget designed for managing and displaying multimedia content. |
+| **Media Controller Improved** | An enhanced media player controller with advanced playback controls and information display. |
+| **Catwalkr** | A KDE Plasma widget that provides a window switcher in the style of a cover flow or carousel. |
+| **Compact Shutdown** | A compact widget that provides quick access to shutdown, restart, and logout options. |
+| **IP Address** | A simple plasmoid to display your local and public IP address on the panel. |
+| **Shutdown or Switch** | A versatile button that gives easy access to power and session actions. |
+| **Simple Kickoff** | A simplified, streamlined version of the default KDE Kickoff application launcher. |
+| **Plasma Flex Hub** | A flexible hub widget for organizing shortcuts and other widgets. |
+| **Simple Separator** | A minimalist visual separator widget for grouping items in the KDE Plasma panel. |
 
 ---
 ## Manual Installation
