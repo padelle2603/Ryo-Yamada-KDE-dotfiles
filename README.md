@@ -139,6 +139,7 @@ These shortcuts are defined in `kglobalshortcutsrc` and `kwinrc`. If you are imp
 |**Open File Manager (Dolphin)**|`Meta` + `E`|
 |**Close Active Window**|`Meta` + `Q`|
 |**Maximize**|`Meta` + `F`|
+|**Desktop 1/2/3/4**|`Meta` + `1/2/3/4`|
 |**Open Boot/Leave Menu**|`Meta` + `Del`|
 |**Search (KRunner)**|`Meta` (Tap)|
 |**Screenshot (Selection)**|`Shift` + `ù`|
