@@ -3,17 +3,12 @@
 A minimalist, blue-toned KDE Plasma setup inspired by Ryo Yamada.
 This configuration emphasizes a clean, efficient workflow, featuring:
 
-    Fish Shell as the default shell
+- Fish Shell as the default shell
+- Kvantum for consistent application theming
+- Krohnkite for dynamic tiling window management
+- KDE Round Corners for subtle visual polish
+- Oh My Posh for a streamlined, informative terminal prompt
 
-    Kvantum for consistent application theming
-
-    Krohnkite for dynamic tiling window management
-
-    KDE Round Corners for subtle visual polish
-
-    Oh My Posh for a streamlined, informative terminal prompt
-
-    
 ---
 
 ## 📸 Screenshots
