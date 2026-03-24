@@ -66,7 +66,7 @@ sudo zypper install fastfetch fish fontconfig kvantum micro xsettingsd qt6ct
 ```
 
 ---
-[## Plasmoids
+## Plasmoids
 List of plasmoids installed in `~/.local/share/plasma/plasmoids/`:
 
 | Plasmoid (KDE Store Name) | Description |
