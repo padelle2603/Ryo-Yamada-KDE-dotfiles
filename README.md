@@ -1,7 +1,19 @@
 # 🎸 Ryo Yamada's KDE Plasma Dotfiles
 
-A minimalist, blue-toned KDE Plasma setup inspired by **Ryo Yamada**. This configuration focuses on a clean workflow using **Fish Shell**, **Kvantum** for styling, Krohknite tiling kwin scritpt, KDE-round-corner script and **Oh My Posh** for the terminal prompt.
+A minimalist, blue-toned KDE Plasma setup inspired by Ryo Yamada.
+This configuration emphasizes a clean, efficient workflow, featuring:
 
+    Fish Shell as the default shell
+
+    Kvantum for consistent application theming
+
+    Krohnkite for dynamic tiling window management
+
+    KDE Round Corners for subtle visual polish
+
+    Oh My Posh for a streamlined, informative terminal prompt
+
+    
 ---
 
 ## 📸 Screenshots
