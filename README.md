@@ -78,24 +78,15 @@ List of plasmoids installed in `~/.local/share/plasma/plasmoids/`:
 
 | Plasmoid (KDE Store Name) | Description |
 |---------------------------|-------------|
-| **Andromeda Launcher** | A simple, stylish application launcher for the KDE Plasma panel |
 | **Apdatifier** | A system tray widget to check for and manage system updates|
-| **Toggle Overview Widget for Plasma 6** | Adds a button to the panel or desktop to open the KDE Plasma Overview, which includes a powerful KRunner search box. |
-| **Run Command** | A widget that adds a button to your panel or desktop to execute a custom terminal command with a single click. |
 | **SysPeek** | A minimalist system monitor plasmoid that displays CPU, RAM, Swap, and network usage in a clean horizontal bar on the panel|
 | **DateOnly** | A simple panel plasmoid that displays only the current date, without the time|
 | **FairyWren App Menu** | A full-screen application menu for KDE Plasma, inspired by the macOS Launchpad. |
-| **Audio Visualizer** | An animated plasmoid that visualizes audio playback in real-time on the panel. |
 | **Panel Colorizer** | A tool to extensively customize the appearance and colors of your KDE Plasma panel|
-| **Orbit Menu** | A circular, animated application launcher with a unique design for the panel |
 | **Kara** | A widget designed for managing and displaying multimedia content. |
-| **Media Controller Improved** | An enhanced media player controller with advanced playback controls and information display. |
 | **Catwalkr** | A KDE Plasma widget that provides a window switcher in the style of a cover flow or carousel. |
-| **Compact Shutdown** | A compact widget that provides quick access to shutdown, restart, and logout options. |
 | **IP Address** | A simple plasmoid to display your local and public IP address on the panel. |
 | **Shutdown or Switch** | A versatile button that gives easy access to power and session actions. |
-| **Simple Kickoff** | A simplified, streamlined version of the default KDE Kickoff application launcher. |
-| **Plasma Flex Hub** | A flexible hub widget for organizing shortcuts and other widgets. |
 | **Simple Separator** | A minimalist visual separator widget for grouping items in the KDE Plasma panel. |
 
 ---
