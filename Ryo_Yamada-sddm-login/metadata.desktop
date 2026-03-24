@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Ryo Yamada
+Description=Ryo Yamada Theme for SDDM
+Author=padelle
+Type=sddm-theme
+Version=1.0
+Screenshot=Previews/PartialBlur.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=ryo-theme
+Theme-API=2.11

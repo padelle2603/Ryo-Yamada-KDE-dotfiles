@@ -1,0 +1,26 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Ryan McFadden",
+        "Email": "ryanskungfu@me.com"
+      },
+      {
+        "Name": "Alexey Varfolomeev",
+        "Email": "varlesh@gmail.com"
+      }
+    ],
+    "Category": "Utilities",
+    "Description": "Quick access to logout, lock, suspend, reboot, and shutdown actions.",
+    "Icon": "system-shutdown",
+    "Id": "org.kde.plasma.compact-shutdown",
+    "Name": "Compact ShutDown",
+    "Version": "1.2",
+    "Website": "https://github.com/ChickenLegsOz/org.kde.plasma.compact-shutdown"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API": "declarativeappletscript",
+  "EnabledByDefault": true,
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-MainScript": "ui/main.qml"
+}

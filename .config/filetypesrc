@@ -1,0 +1,4 @@
+[EmbedSettings]
+embed-application/x-zerosize=false
+embed-x-scheme-handler/http=false
+embed-x-scheme-handler/https=false

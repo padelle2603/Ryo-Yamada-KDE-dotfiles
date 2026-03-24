@@ -1,0 +1,16 @@
+[Daemon]
+LockGrace=6000
+Timeout=60
+
+[Greeter][Wallpaper][com.github.catsout.wallpaperEngineKde][General]
+FilterStr=01001111011111111111111111111111111
+SteamLibraryPath[$e]=file:$HOME/media/SteamLibrary
+WallpaperSource[$e]=file:///media/hdd/SteamLibrary/steamapps/workshop/content/431960/1134328086/wolf_final.mp4+video
+WallpaperWorkShopId=1134328086
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/padelle/Immagini/Schermate/arch-linux-wallpaper-4k-2370650111.jpg
+PreviewImage=file:///home/padelle/Immagini/Schermate/arch-linux-wallpaper-4k-2370650111.jpg
+
+[Greeter][Wallpaper][org.kde.slideshow][General]
+UncheckedSlides=/usr/share/wallpapers/cachyos-wallpapers/Abstract.png,/usr/share/wallpapers/cachyos-wallpapers/north.png

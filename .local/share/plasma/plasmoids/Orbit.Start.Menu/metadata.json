@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@librepixels.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "BugReportUrl": "",
+        "Category": "Application Launchers",
+        "Description": "",
+        "EnabledByDefault": true,
+        "Icon": "start-here-kde",
+        "Id": "Orbit.Start.Menu",
+        "License": "GPL-2.0+",
+        "Name": "Orbit Menu",
+        "Website": "https://store.kde.org/p/2228598/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}

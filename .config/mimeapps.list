@@ -1,0 +1,25 @@
+[Added Associations]
+application/x-extension-htm=zen.desktop;
+application/x-extension-html=zen.desktop;
+application/x-extension-shtml=zen.desktop;
+application/x-extension-xht=zen.desktop;
+application/x-extension-xhtml=zen.desktop;
+application/x-zerosize=org.kde.kate.desktop;
+application/xhtml+xml=zen.desktop;
+text/html=zen.desktop;
+x-scheme-handler/chrome=zen.desktop;
+x-scheme-handler/http=zen.desktop;app.zen_browser.zen.desktop;
+x-scheme-handler/https=zen.desktop;app.zen_browser.zen.desktop;
+
+[Default Applications]
+application/x-extension-htm=zen.desktop
+application/x-extension-html=zen.desktop
+application/x-extension-shtml=zen.desktop
+application/x-extension-xht=zen.desktop
+application/x-extension-xhtml=zen.desktop
+application/x-zerosize=org.kde.kate.desktop;
+application/xhtml+xml=zen.desktop
+text/html=zen.desktop
+x-scheme-handler/chrome=zen.desktop
+x-scheme-handler/http=zen.desktop
+x-scheme-handler/https=zen.desktop

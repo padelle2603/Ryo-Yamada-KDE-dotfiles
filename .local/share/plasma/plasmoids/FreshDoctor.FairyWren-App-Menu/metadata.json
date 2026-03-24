@@ -1,0 +1,24 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "FreshDoctor",
+        "GitProfile": "https://gitlab.com/FreshDoctor/"
+      }
+    ],
+    "Category": "Application Launchers",
+    "Description": "A modern grid style Launcher for plasma",
+    "EnabledByDefault": true,
+    "Icon": "start-here-kde",
+    "Id": "FreshDoctor.FairyWren-App-Menu",
+    "Name": "FairyWren App Menu",
+    "SourceCode": "https://gitlab.com/FreshDoctor/fairywren-app-menu",
+    "Version": "2605",
+    "Website": "https://gitlab.com/FreshDoctor/fairywren-app-menu"
+  },
+  "X-Plasma-Provides": [
+    "org.kde.plasma.launchermenu"
+  ],
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

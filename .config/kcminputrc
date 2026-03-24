@@ -1,0 +1,12 @@
+[Libinput][3141][13570][SONiX DREVO Mouse]
+PointerAcceleration=-0.200
+PointerAccelerationProfile=1
+ScrollMethod=4
+
+[Libinput][7511][4879][2.4G Wireless Optical Mouse  Mouse]
+PointerAcceleration=0.000
+PointerAccelerationProfile=1
+ScrollMethod=4
+
+[Mouse]
+cursorTheme=capitaine-cursors

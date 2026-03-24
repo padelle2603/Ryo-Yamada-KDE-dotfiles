@@ -1,0 +1,149 @@
+[0cb3d1c6-e441-4eca-91f6-09661ff01bab]
+Description=Impostazioni dell'applicazione per com.github.th_ch.youtube_music
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=electron com.github.th_ch.youtube_music
+wmclasscomplete=true
+wmclassmatch=1
+
+[0d95fd8b-e7c2-4e03-a85f-f19d7879730e]
+Description=Impostazioni della finestra per org.kde.dolphin
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+title=Home — Dolphin
+types=1
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[0daf5847-c1df-4c78-b466-8b0d4f65b125]
+Description=Impostazioni dell'applicazione per org.kde.kate
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=kate org.kde.kate
+wmclasscomplete=true
+wmclassmatch=1
+
+[2918d223-ea10-4a27-b91f-c4f71eb9bd09]
+Description=Impostazioni dell'applicazione per discord
+clientmachine=localhost
+noborder=true
+noborderrule=2
+opacityactive=93
+opacityactiverule=2
+opacityinactive=93
+opacityinactiverule=2
+wmclass=discord
+wmclassmatch=1
+
+[2b1e9e7b-b429-4fa3-b4a6-2e1e48c4e72a]
+Description=Impostazioni della nuova finestra
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclassmatch=1
+
+[2e45e745-fdf6-4943-97e5-8b23e623b1d1]
+Description=Impostazioni dell'applicazione per YouTube Music
+clientmachine=localhost
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=youtube music YouTube Music
+wmclasscomplete=true
+wmclassmatch=1
+
+[3687ec0f-4ba8-45f4-9acb-a400f550f2e3]
+Description=Impostazioni dell'applicazione per systemsettings
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=systemsettings
+wmclassmatch=1
+
+[5103bf6f-3775-485e-acce-fc5fb19b8ce9]
+Description=Impostazioni dell'applicazione per Alacritty
+noborder=true
+noborderrule=2
+wmclass=alacritty Alacritty
+wmclasscomplete=true
+wmclassmatch=1
+
+[53162d92-f47c-464f-a849-08cdedd1858e]
+Description=Impostazioni dell'applicazione per org.kde.konsole
+noborder=true
+noborderrule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[5b29ce62-f829-4f63-9408-1d4506dd9bcf]
+Description=Impostazioni dell'applicazione per org.kde.ark
+opacityactiverule=2
+wmclass=ark org.kde.ark
+wmclasscomplete=true
+wmclassmatch=1
+
+[77a435c4-ab2c-4a4d-8f7f-e9c51d6a64c7]
+Description=Impostazioni dell'applicazione per kcm_kwinrules
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=kcmshell6 kcm_kwinrules
+wmclasscomplete=true
+wmclassmatch=1
+
+[7d205cc7-bf47-48d5-b708-586716b4c0b2]
+Description=Impostazioni dell'applicazione per gnome-abrt
+decocolor=BreezeDark
+decocolorrule=2
+skiptaskbarrule=3
+wmclass=python3.14 gnome-abrt
+wmclasscomplete=true
+wmclassmatch=1
+
+[8b3d2571-18d6-40aa-84b2-e13f48636a5c]
+Description=Impostazioni dell'applicazione per systemsettings
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=systemsettings
+wmclassmatch=1
+
+[9bb8a312-3093-45d3-bfad-90878536ab8a]
+noborderrule=2
+
+[General]
+count=14
+rules=0cb3d1c6-e441-4eca-91f6-09661ff01bab,2e45e745-fdf6-4943-97e5-8b23e623b1d1,53162d92-f47c-464f-a849-08cdedd1858e,77a435c4-ab2c-4a4d-8f7f-e9c51d6a64c7,5103bf6f-3775-485e-acce-fc5fb19b8ce9,8b3d2571-18d6-40aa-84b2-e13f48636a5c,c44cc366-107d-4000-bf2e-55dbee8e27f4,0daf5847-c1df-4c78-b466-8b0d4f65b125,e8f32812-9f85-4856-a2cd-80a647e5c73e,7d205cc7-bf47-48d5-b708-586716b4c0b2,2918d223-ea10-4a27-b91f-c4f71eb9bd09,5b29ce62-f829-4f63-9408-1d4506dd9bcf,0d95fd8b-e7c2-4e03-a85f-f19d7879730e,2b1e9e7b-b429-4fa3-b4a6-2e1e48c4e72a
+
+[c44cc366-107d-4000-bf2e-55dbee8e27f4]
+Description=Impostazioni dell'applicazione per org.freedesktop.impl.portal.desktop.kde
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+wmclass=xdg-desktop-portal-kde org.freedesktop.impl.portal.desktop.kde
+wmclasscomplete=true
+wmclassmatch=1
+
+[e8f32812-9f85-4856-a2cd-80a647e5c73e]
+Description=Impostazioni dell'applicazione per org.kde.plasma-systemmonitor
+opacityactive=90
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+wmclass=plasma-systemmonitor org.kde.plasma-systemmonitor
+wmclasscomplete=true
+wmclassmatch=1

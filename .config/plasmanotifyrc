@@ -1,0 +1,17 @@
+[Applications][discord]
+Seen=true
+
+[Applications][org.coolercontrol.CoolerControl]
+Seen=true
+
+[Applications][org.flameshot.Flameshot]
+Seen=true
+
+[Applications][org.ksnip.ksnip]
+Seen=true
+
+[Applications][zen]
+Seen=true
+
+[Services][libnotificationmanager]
+ShowPopups=false

@@ -1,0 +1,16 @@
+[Desktop Entry]
+DefaultProfile=niga.profile
+
+[FileDialogSize]
+1920x1080 screen: Window-Maximized=true
+
+[General]
+ConfigVersion=1
+
+[Notification Messages]
+CloseAllEmptyTabs=false
+CloseAllTabs=true
+CloseSingleTab=true
+
+[UiSettings]
+ColorScheme=

@@ -1,0 +1,6 @@
+[General]
+theme=Amy-Dark-Kvantum
+
+[Applications]
+Ars-Dark-Kvantum=dolphin
+Fluent-Dark=dolphin, ark

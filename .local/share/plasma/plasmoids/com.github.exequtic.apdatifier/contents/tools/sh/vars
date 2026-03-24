@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+
+scriptDir="$(dirname -- "$(readlink -f -- "${BASH_SOURCE[0]}")")"
+appletDir="${scriptDir%/contents/*}"
+[[ "$appletDir" == /home/*/.local* ]]; systemWide=$?
+
+configDir="$HOME/.config/apdatifier"
+localDir="$HOME/.local/share"
+tempDir="${TMPDIR:-/tmp}/apdatifier"
+config="$configDir/config.conf"
+
+export TEXTDOMAINDIR="$scriptDir/../../locale"
+export TEXTDOMAIN="plasma_applet_com.github.exequtic.apdatifier"
+
+source $config
+
+while IFS= read -r line; do
+    [[ -z "$line" || "$line" =~ ^[[:space:]]*# ]] && continue
+    key="${line%%=*}"
+    key="${key%% *}"
+    value="${line#*=}"
+    text=$(echo "$value" | grep -oP '(?<=\().*(?=\))' | sed 's/"//g')
+    [[ -n "$key" && -n "$text" ]] && eval "$key=\"\$(gettext \"$text\")\""
+done < "$scriptDir/messages"
+
+if [[ $termFont = "true" ]]; then
+    ICO_ERR=""
+    ICO_DONE=""
+    ICO_WARN="󱇎"
+    ICO_QUESTION=""
+    ICO_EXEC="󰅱"
+    ICO_MIRRORS="󰓅"
+    ICO_RETURN="󰬨"
+    ICO_SELECT="󰄾"
+else
+    ICO_ERR="✘"
+    ICO_DONE="✔"
+    ICO_WARN="::"
+    ICO_QUESTION="::"
+    ICO_EXEC="::"
+    ICO_MIRRORS="::"
+    ICO_RETURN="<<"
+    ICO_SELECT=">"
+fi

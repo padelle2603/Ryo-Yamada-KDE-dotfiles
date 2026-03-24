@@ -1,0 +1,25 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Scaricati/IMG_20260316_090541.jpg
+File2[$e]=/usr/share/sddm/themes/cachyos-simplyblack/screenshot.png
+File3[$e]=/usr/share/sddm/themes/cachyos-softgrey/screenshot.png
+File4[$e]=/usr/share/sddm/themes/elarun/elarun.jpg
+File5[$e]=/usr/share/sddm/themes/maya/screenshots/hi_IN.png
+File6[$e]=/usr/share/sddm/themes/breeze/preview.png
+Name1[$e]=IMG_20260316_090541.jpg
+Name2[$e]=screenshot.png
+Name3[$e]=screenshot.png
+Name4[$e]=elarun.jpg
+Name5[$e]=hi_IN.png
+Name6[$e]=preview.png
+
+[SideBar]
+InformationSplitterSizes=225,250
+IsVisible ViewMode=true
+SideBarSplitterSizes=283,654

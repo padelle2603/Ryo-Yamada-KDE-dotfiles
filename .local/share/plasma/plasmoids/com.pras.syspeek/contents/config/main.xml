@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+                          http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+
+    <kcfgfile name="plasmarc"/>
+
+    <group name="General">
+        <entry name="launchCommand" type="String">
+            <label>Launch Command</label>
+            <default>plasma-systemmonitor</default>
+        </entry>
+        <entry name="itemSpacing" type="Int">
+            <label>Item Spacing</label>
+            <default>8</default>
+        </entry>
+        <entry name="iconTextSpacing" type="Int">
+            <label>Icon Text Spacing</label>
+            <default>4</default>
+        </entry>
+        <entry name="horizontalPadding" type="Int">
+            <label>Horizontal Padding</label>
+            <default>0</default>
+        </entry>
+        <entry name="verticalPadding" type="Int">
+            <label>Vertical Padding</label>
+            <default>0</default>
+        </entry>
+        <entry name="fontSize" type="Int">
+            <label>Font Size</label>
+            <default>10</default>
+        </entry>
+        <entry name="fontFamily" type="String">
+            <label>Font Family</label>
+            <default></default>
+        </entry>
+        <entry name="showCpu" type="Bool">
+            <label>Show CPU</label>
+            <default>true</default>
+        </entry>
+        <entry name="showRam" type="Bool">
+            <label>Show RAM</label>
+            <default>true</default>
+        </entry>
+        <entry name="showSwap" type="Bool">
+            <label>Show Swap</label>
+            <default>true</default>
+        </entry>
+        <entry name="showUpload" type="Bool">
+            <label>Show Upload Speed</label>
+            <default>true</default>
+        </entry>
+        <entry name="showDownload" type="Bool">
+            <label>Show Download Speed</label>
+            <default>true</default>
+        </entry>
+        <entry name="widgetWidth" type="Int">
+            <label>Widget Width</label>
+            <default>400</default>
+        </entry>
+        <entry name="cpuColor" type="Color">
+            <label>CPU Color</label>
+            <default>#ffffff</default>
+        </entry>
+        <entry name="ramColor" type="Color">
+            <label>RAM Color</label>
+            <default>#ffffff</default>
+        </entry>
+        <entry name="swapColor" type="Color">
+            <label>Swap Color</label>
+            <default>#ffffff</default>
+        </entry>
+        <entry name="uploadColor" type="Color">
+            <label>Upload Color</label>
+            <default>#ffffff</default>
+        </entry>
+        <entry name="downloadColor" type="Color">
+            <label>Download Color</label>
+            <default>#ffffff</default>
+        </entry>
+        <entry name="percentWarningThreshold" type="Int">
+            <label>Usage Above</label>
+            <default>80</default>
+        </entry>
+        <entry name="percentWarningColor" type="Color">
+            <label>Usage Color</label>
+            <default>#ffa500</default>
+        </entry>
+        <entry name="percentCriticalThreshold" type="Int">
+            <label>Usage Above</label>
+            <default>95</default>
+        </entry>
+        <entry name="percentCriticalColor" type="Color">
+            <label>Usage Color</label>
+            <default>#ff0000</default>
+        </entry>
+        <entry name="speedWarningThreshold" type="Int">
+            <label>Speed Above</label>
+            <default>1</default>
+        </entry>
+        <entry name="speedWarningColor" type="Color">
+            <label>Speed Color</label>
+            <default>#00ffff</default>
+        </entry>
+        <entry name="speedCriticalThreshold" type="Int">
+            <label>Speed Above</label>
+            <default>5</default>
+        </entry>
+        <entry name="speedCriticalColor" type="Color">
+            <label>Speed Color</label>
+            <default>#00ff00</default>
+        </entry>
+    </group>
+</kcfg>

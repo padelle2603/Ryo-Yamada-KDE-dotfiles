@@ -1,0 +1,26 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+  "Authors": [
+            {
+                "Name": "Alcir Saraiva",
+                "Email": "alcir.saraiva@yahoo.com"
+            }
+        ],
+    "Name": "DateOnly",
+    "Id": "DateOnly",
+    "Description": "A panel plasmoid that displays only the date.",
+    "Icon": "date",
+    "License": "GPL-3.0+",
+    "Version": "0.95",
+    "EnabledByDefault": true,
+    "ServiceTypes": [
+       "Plasma/Applet"
+    ]
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-Provides": [
+      "org.kde.plasma.time",
+      "org.kde.plasma.date"
+  ]
+}

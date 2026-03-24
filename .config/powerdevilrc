@@ -1,0 +1,14 @@
+[AC][Display]
+DimDisplayIdleTimeoutSec=3540
+TurnOffDisplayIdleTimeoutSec=3600
+TurnOffDisplayIdleTimeoutWhenLockedSec=-2
+
+[AC][Performance]
+PowerProfile=performance
+
+[AC][RunScript]
+RunScriptIdleTimeoutSec=60
+
+[AC][SuspendAndShutdown]
+AutoSuspendAction=0
+AutoSuspendIdleTimeoutSec=3600
