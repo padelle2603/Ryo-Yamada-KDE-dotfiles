@@ -92,6 +92,10 @@ cp -r .local/share/* ~/.local/share/
     - Restart your Plasma session (Log out and Log in).
 
 ---
+## Konsave file
+If you feel safer using [konsave](https://github.com/Prayag2/konsave) you can import the theme using a .knsv [here](https://mega.nz/file/p3IlET4D#ys3_K5JpI6ku3TheeUVHwzX8d3pRLxBp56kJkCTtGZM).
+
+---
 ## ⌨️ Custom Keybindings
 
 These shortcuts are defined in `kglobalshortcutsrc` and `kwinrc`. If you are importing manually, ensure these don't conflict with your existing global shortcuts.
@@ -106,10 +110,3 @@ These shortcuts are defined in `kglobalshortcutsrc` and `kwinrc`. If you are imp
 |**Screenshot (Selection)**|`Shift` + `ù`|
 |**Krohnkite: BTree Layout**|`Meta` + `Shift` + `PgUp`|
 |**Krohnkite: Floating Layout**|`Meta` + `Shift` + `PgDn`|
-
----
-# Ryo-Yamada-KDE-dotfiles
-# Ryo-Yamada-KDE-dotfiles
-# Ryo-Yamada-KDE-dotfiles
-# Ryo-Yamada-KDE-dotfiles
-# Ryo-Yamada-KDE-dotfiles
